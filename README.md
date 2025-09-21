@@ -1,1 +1,1 @@
-# kurante.github.io
+# My storage for some stuff
